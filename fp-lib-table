@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name RFM22)(type Legacy)(uri /home/andre/kicad/libraries/rfm22/RFM22.mod)(options "")(descr ""))
+  (lib (name Teensy-3)(type KiCad)(uri /home/andre/kicad/libraries/Teensy-3.1)(options "")(descr ""))
+  (lib (name D1_mini)(type KiCad)(uri /home/andre/kicad/template/d1_mini_kicad/template/lib/D1_mini.pretty)(options "")(descr ""))
+  (lib (name 4F_supercap)(type KiCad)(uri "$(KIPRJMOD)/4F_supercap.pretty")(options "")(descr ""))
+  (lib (name D24V5F3)(type KiCad)(uri "$(KIPRJMOD)/D24V5F3.pretty")(options "")(descr ""))
+)

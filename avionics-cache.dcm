@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUK9K45-100E
+D 20V Vds, 7.5A Id, 18mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS6890A.pdf
+$ENDCMP
+#
+$CMP FDS6892A
+D 20V Vds, 7.5A Id, 18mOhm Rds, Dual N-Channel MOSFET PWM Optimized, SO-8
+K Dual N-Channel MOSFET Low Gate Charge
+F http://www.fairchildsemi.com/ds/FD/FDS6892A.pdf
+$ENDCMP
+#
+$CMP FDS6898A
+D 20V Vds, 9.4A Id, 14mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS6898A.pdf
+$ENDCMP
+#
+$CMP FDS9926A
+D 20V Vds, 6.5A Id, 30mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS9926A.pdf
+$ENDCMP
+#
+#End Doc Library
