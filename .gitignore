@@ -1,2 +1,6 @@
 *.bak
 *.bck
+*-bak
+*.rpt
+*.zip
+gerbers/
