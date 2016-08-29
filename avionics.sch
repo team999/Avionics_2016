@@ -288,16 +288,7 @@ Connection ~ 3450 3600
 Wire Wire Line
 	11100 1900 11100 2050
 Wire Wire Line
-	11100 2350 11100 2500
-Wire Wire Line
 	11100 2800 11100 2900
-Wire Wire Line
-	10550 2600 10900 2600
-Wire Wire Line
-	10900 2600 10900 2450
-Wire Wire Line
-	10900 2450 11100 2450
-Connection ~ 11100 2450
 $Comp
 L GND #PWR08
 U 1 1 57C11B5B
@@ -407,8 +398,6 @@ Text Label 8850 5150 2    60   ~ 0
 Sense
 Wire Wire Line
 	8850 5150 9100 5150
-Text Label 8850 5250 2    60   ~ 0
-Cont1
 Text Label 10550 5200 0    60   ~ 0
 Fire1
 Text Label 10550 5300 0    60   ~ 0
@@ -422,7 +411,7 @@ Aux1
 Text Label 10550 5700 0    60   ~ 0
 Aux2
 Wire Wire Line
-	9100 5250 8850 5250
+	8450 5250 9100 5250
 Wire Wire Line
 	10450 5700 10550 5700
 Wire Wire Line
@@ -439,12 +428,10 @@ Text Label 10800 3350 3    60   ~ 0
 Sense
 Wire Wire Line
 	10800 3200 10800 3350
-Text Label 8500 3050 2    60   ~ 0
-Cont1
 Wire Wire Line
 	8550 1850 8500 1850
 Wire Wire Line
-	8500 3050 8550 3050
+	8450 3050 8550 3050
 Wire Wire Line
 	10550 3200 10800 3200
 Text Label 10700 3050 0    60   ~ 0
@@ -586,4 +573,15 @@ Wire Wire Line
 Wire Wire Line
 	2150 3600 2400 3600
 Connection ~ 2850 3600
+Wire Wire Line
+	11100 2350 11100 2500
+Wire Wire Line
+	11100 2450 10950 2450
+Wire Wire Line
+	10950 2450 10950 2600
+Wire Wire Line
+	10950 2600 10550 2600
+Connection ~ 11100 2450
+Wire Wire Line
+	8450 3050 8450 5250
 $EndSCHEMATC

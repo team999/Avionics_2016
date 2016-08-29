@@ -7,6 +7,10 @@
 * [Teensy kicad library](https://github.com/LuisDiazUgena/Teensy-3.1)
 * RFM22 lib and mod from [davepeake's kicad Libraries](https://github.com/davepeake/kicad_libraries)
   * download just the rfm22 lib and mod file to ~/kicad/libraries/rfm22
+  ```bash
+  wget https://raw.githubusercontent.com/davepeake/kicad_libraries/master/RFM22.mod
+  wget https://raw.githubusercontent.com/davepeake/kicad_libraries/master/rfm22.lib
+  ```
 
 
 
